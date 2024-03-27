@@ -654,10 +654,7 @@ form .btn {
 @media (width < 1250px) {
     .nav_links {
         display: none;
-    }
-    body{
-        /* background-color: rgb(176, 158, 158); */
-    }
+    } 
 
     .hero_title h1 {
         font-size: 3rem;
